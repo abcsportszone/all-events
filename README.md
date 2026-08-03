@@ -1,2 +1,0 @@
-# all-events
-all events
